@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "selene-quick-start"
+name = "selene-project"
 version = "0.1.0"
 description = ""
 authors = ["Alsu Fayzullina <alsufayzi@gmail.com>"]
@@ -7,8 +7,8 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.12"
-selene = "^1.0.2"
 pytest = "^8.1.1"
+selene = "^1.0.2"
 
 
 [build-system]
